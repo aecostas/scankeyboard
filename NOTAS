@@ -1,0 +1,13 @@
+Estadísticas
+------------
+ - Número de pasos por cada caracter: no llega con ver la posición en el alfabeto, ya que al tratarse de pruebas reales el usuario se lo puede saltar. Además en teclados con predicción podría escoger la palabra más probable o no.
+             -> ¿no bastará con contar el número de timeouts? (al menos para tc)
+ 	     -> para la distribución de cuántos pasos por caracter -> contar timeouts para cada tecla
+
+
+
+Acceso a ficheros:
+       http://www.developer.nokia.com/Community/Wiki/Reading_and_writing_files_in_QML
+
+Duda:
+  - ¿las pruebas realizadas en la literatura incluyen errores? Es decir, ¿el usuario tiene que escribir la frase tal cual o se permite que no vaya igual? -> pensar sobre esto para la simulación -> 

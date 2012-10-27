@@ -1,0 +1,7 @@
+1) Conectar con predictor. Para esto es necesario tener acceder al código nativo. Ver como son los drivers javascript-Qt
+
+2) Considerar distintas estrategias de ordenación:
+     - 2.1 Reutilizar los ya desarrollados en C++
+     - 2.2 Reimplementar los de interés en Javascript
+
+
